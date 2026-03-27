@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I'm Nicholas, welcome to my github!
 
-<!--
-**NichOlas-Work/NichOlas-Work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 About Me
+Python Developer in training, focused on building automation, APIs, and AI-based solutions.
 
-Here are some ideas to get you started:
+💡 Skills
+- Python (automation, scripting, APIs)
+- AI integration (ChatGPT)
+- Azure (cloud fundamentals)
+- FAISS (search optimization)
+- REST APIs
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Strengths
+- Fast learner
+- Problem-solving mindset
+- Organized and detail-oriented
+- Responsible with deadlines
+- Able to work independently and in teams
